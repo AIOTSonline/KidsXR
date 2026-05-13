@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.2.12f1
+CRC: 3441537183
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 66382a19595ff0d6d4dcde91efd993c0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3bb6cd21eda0e70c69c06b78380eafd8
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 144cb503f0e82e00cbbe35320860b77a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/FrogLifeCycle/Cube.prefab
+Dependencies: []

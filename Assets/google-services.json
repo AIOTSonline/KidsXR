@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "430887999190",
+    "project_id": "kidsxr",
+    "storage_bucket": "kidsxr.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430887999190:android:117be7d2d9adaa8bf25b77",
+        "android_client_info": {
+          "package_name": "com.aiot.KidsXR"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIycvksqhYvyo1csYYhp8xROBTK4mlNFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

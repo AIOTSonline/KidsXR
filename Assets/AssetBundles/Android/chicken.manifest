@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.2.12f1
+CRC: 2196125021
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dc36c253389a5bf70829633b0cb425bc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0ac4b80027a2c8e1a2f28b343ce64fb1
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: fe1889557c561950341705d4fd1d8247
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/Scene 3/Bird_Chicken_Brown_01.prefab
+Dependencies: []

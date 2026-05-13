@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id">
+  <string name="gcm_defaultSenderId" translatable="false">430887999190</string>
+  <string name="google_storage_bucket" translatable="false">kidsxr.firebasestorage.app</string>
+  <string name="project_id" translatable="false">kidsxr</string>
+  <string name="google_api_key" translatable="false">AIzaSyAIycvksqhYvyo1csYYhp8xROBTK4mlNFw</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAIycvksqhYvyo1csYYhp8xROBTK4mlNFw</string>
+  <string name="google_app_id" translatable="false">1:430887999190:android:117be7d2d9adaa8bf25b77</string>
+</resources>
