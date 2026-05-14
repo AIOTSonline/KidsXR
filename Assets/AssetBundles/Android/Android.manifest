@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.2.12f1
+CRC: 2199029655
+HashAppended: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: froggy
+      Dependencies: {}
+    Info_1:
+      Name: sphere
+      Dependencies: {}
+    Info_2:
+      Name: eggs
+      Dependencies: {}
+    Info_3:
+      Name: ardebugmenu
+      Dependencies: {}
+    Info_4:
+      Name: cube
+      Dependencies: {}
+    Info_5:
+      Name: shark
+      Dependencies: {}
+    Info_6:
+      Name: chicken
+      Dependencies: {}

@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.2.12f1
+CRC: 1042908508
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 388b190e471750c7d352f20258bde493
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 25c904ca8c6754627f21f5f6857bd6d3
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: cb188df02f97aebbcc9032b50f9c19a7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/FrogLifeCycle/Sphere.prefab
+Dependencies: []

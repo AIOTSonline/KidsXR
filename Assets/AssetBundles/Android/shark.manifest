@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.2.12f1
+CRC: 910941431
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d00a8b4954d7bbbd3e99281d4f2f7dbb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0ac4b80027a2c8e1a2f28b343ce64fb1
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9bf97fe5fde7e106998d36dbdf986cdf
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/Scene 3/sharkrigV4.prefab
+Dependencies: []
